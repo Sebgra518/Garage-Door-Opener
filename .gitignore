@@ -1,0 +1,5 @@
+*-backups/
+*.lck
+fp-info-cache
+*.ps
+*-drl_map.ps
